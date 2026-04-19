@@ -1,5 +1,6 @@
 # -Research-Assignment-1
 This repository contains my completed Research Assignment 1 for the Data Analytics &amp; Data Science course by BrightLearn.  The assignment focuses on building foundational knowledge across key areas of data and technology. It is divided into multiple sections that explore both theoretical concepts and practical understanding.
+
 Topics Covered:
 Data Fundamentals: Databases, data warehouses, data lakes, ETL processes, and data modeling
 Artificial Intelligence & Machine Learning: AI concepts, machine learning types, deep learning, NLP, and generative AI
